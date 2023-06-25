@@ -1,4 +1,4 @@
-# Digital-Circuit-Lab
+# Digital Circuit Labs from NTUEE
 ## lab0
 - simple ALU  
 
